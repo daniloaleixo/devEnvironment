@@ -1,5 +1,6 @@
 PKief.material-icon-theme
 abusaidm.html-snippets
+donjayamanne.githistory
 johnpapa.Angular2
 robertohuertasm.vscode-icons
 steoates.autoimport

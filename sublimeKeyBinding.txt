@@ -1,3 +1,4 @@
 [
+	{ "keys": ["super+a"], "command": "alignment" },
 	{ "keys": ["ctrl+\\"], "command": "toggle_comment", "args":{"block":false }}
 ]

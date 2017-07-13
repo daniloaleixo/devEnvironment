@@ -1,0 +1,15 @@
+0_package_control_loader.sublime-package
+ApplySyntax.sublime-package
+IndentX.sublime-package
+ReactJS.sublime-package
+A File Icon.sublime-package
+AutoImport.sublime-package
+JavaScriptNext - ES6 Syntax.sublime-package
+React Templates.sublime-package
+Angular2 HTML Syntax.sublime-package
+Color Highlighter.sublime-package
+Material Theme.sublime-package
+SublimeLinter-jsxhint.sublime-package
+Angular 2 Snippets (John Papa).sublime-package
+Increment Selection.sublime-package
+Package Control.sublime-package

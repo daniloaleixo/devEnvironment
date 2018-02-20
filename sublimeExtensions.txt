@@ -20,3 +20,4 @@ Sass.sublime-package
 SideBarEnhancements.sublime-package
 SublimeLinter-jsxhint.sublime-package
 DocBlockr
+EditorConfig

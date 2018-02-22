@@ -1,7 +1,22 @@
-// These settings override both User and Default settings for the TypeScript syntax
 {
-    "save_on_focus_lost": true,
-    "tab_size": 2,
-    "translate_tabs_to_spaces": false,
-    "rulers": [100],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"folder_exclude_patterns":
+	[
+		"dist",
+		".git"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"word_wrap": true,
+	"wrap_width": 100,
 }

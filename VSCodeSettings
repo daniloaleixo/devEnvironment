@@ -4,5 +4,8 @@
     "editor.wordWrap": "on",
     "editor.wordWrapColumn": 100,
     "workbench.editor.enablePreview": false,
-    "editor.rulers": [100]
+    "editor.rulers": [100],
+    "search.exclude": {
+        "**/dist": true,
+    }
 }

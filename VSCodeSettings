@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 100,
+    "workbench.editor.enablePreview": false,
+    "editor.rulers": [100]
+}

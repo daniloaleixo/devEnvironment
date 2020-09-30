@@ -8,3 +8,4 @@ alias gc='git commit'
 alias gx='git push'
 alias gp='git pull'
 alias gb='git branch'
+alias docker-clean="docker rm -v $(docker ps -a -q -f status=exited)"

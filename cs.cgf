@@ -1,0 +1,9 @@
+Mouse sense 1.75
+bind "KP_5" "cl_crosshairsize 3; cl_crosshairgap -1.5"
+bind "l" "cl_crosshairsize 1; cl_crosshairgap -4"
+bind "k" "clutch_mode_toggle"
+bind "MOUSE4" "+voicerecord"
+bind "MOUSE5" "incrementvar cl_crosshairsize 3 4000 3997"
+bind "MWHEELUP" "+jump"
+bind "MWHEELDN" "+jump"
+bind "n" "+jump;-attack;-jump"

@@ -9,3 +9,5 @@ alias gx='git push'
 alias gp='git pull'
 alias gb='git branch'
 alias docker-clean="docker rm -v $(docker ps -a -q -f status=exited)"
+alias NEG="xcalib -invert -alter"
+export PS1="\[\033[38;5;10m\]\u:\w\\$\[$(tput sgr0)\]\[\033[38;5;11m\]\$(git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/')\[$(tput sgr0)\]"

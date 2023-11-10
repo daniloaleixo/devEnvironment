@@ -3,11 +3,12 @@ alias la='ls -A'
 alias l='ls -CF'
 alias gs='git status'
 alias gco='git checkout'
-alias ga='git add *'
+alias ga='git add'
 alias gc='git commit'
 alias gx='git push'
 alias gp='git pull'
 alias gb='git branch'
+alias gd='git diff'
 alias docker-clean="docker rm -v $(docker ps -a -q -f status=exited)"
 alias NEG="xcalib -invert -alter"
 export PS1="\[\033[38;5;10m\]\u:\w\\$\[$(tput sgr0)\]\[\033[38;5;11m\]\$(git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/')\[$(tput sgr0)\]"

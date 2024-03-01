@@ -18,3 +18,7 @@ rm ./chrome.deb
 
 # Install Terminator
 sudo apt install -y terminator
+
+# Install indicator multiload 
+sudo apt install indicator-multiload
+
